@@ -11,7 +11,8 @@
 
 2. After logging in, you will be taken to the dashboard. Please create a new folder for each homework part (For example, Class6_Part1). Please upload you PHP file inside each respective folder.
 
-<img width="1347" alt="Screenshot 2024-06-04 at 16 52 42" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/a9db9487-766e-46ec-8cf7-d8664453071f">
+![image (1)](https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/167288305/5251e463-71cc-4272-aab7-6ab755817c1e)
+
 
 
 # Part 1

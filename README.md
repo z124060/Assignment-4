@@ -104,8 +104,7 @@ http://172.21.82.208/gift/class6/sol/part4/index.php
 3. Save pizza.php file
 4. Upload your PHP files in your respective folder :Class6_Part5
 
-https://lh7-us.googleusercontent.com/docsz/AD_4nXclOZFzn_mIckKZhL4HTPP2JScLFomM24ZgPBipTXja-JROIYUGLaZc-PD5WuGmz2Pbq4w_FqbEodiU7z_sdsx6Jfyb0ufyv1fvdOw19xSdFmCCoJZx7_-2GAZpL13qlqKvd4KR6BsGqs4Zk8_QvMjqcLPfTcqR1ImttSRYLzZTJwRDE_lE-Nc?key=7gg245YI4ihQtXpNRS-SmQ
-
+   
 <img width="480" alt="Screenshot 2024-06-05 at 16 49 30" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/fae6d772-a569-4f13-abf2-bd527825bc7a">
 
 The input example on index.html

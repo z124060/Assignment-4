@@ -6,11 +6,13 @@ How to upload your homework?
 
 1. Click on the URL : http://172.21.82.208/wdp/login.php to access the login page. You’re Username and Password will be provided by Slack. Please login with your credentials.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f27eaf8b-b9d6-4954-80aa-9027b662dc80/18c62ca2-1e63-45c0-8af0-9c6a74215cd2/Untitled.png)
+<img width="460" alt="Screenshot 2024-06-04 at 17 22 46" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/d51a8bb4-4609-46b9-a07e-c144925ce795">
 
-1. After logging in, you will be taken to the dashboard. Please create a new folder for each homework part (For example, Class6_Part1). Please upload you PHP file inside each respective folder.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f27eaf8b-b9d6-4954-80aa-9027b662dc80/e0341175-19d2-4e21-a996-a58faf79a25e/Untitled.png)
+2. After logging in, you will be taken to the dashboard. Please create a new folder for each homework part (For example, Class6_Part1). Please upload you PHP file inside each respective folder.
+
+<img width="1347" alt="Screenshot 2024-06-04 at 16 52 42" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/a9db9487-766e-46ec-8cf7-d8664453071f">
+
 
 **Part 1**
 
@@ -106,6 +108,8 @@ http://172.21.82.208/gift/class6/sol/part4/index.php
 4. Upload your PHP files in your respective folder :Class6_Part5
 
 https://lh7-us.googleusercontent.com/docsz/AD_4nXclOZFzn_mIckKZhL4HTPP2JScLFomM24ZgPBipTXja-JROIYUGLaZc-PD5WuGmz2Pbq4w_FqbEodiU7z_sdsx6Jfyb0ufyv1fvdOw19xSdFmCCoJZx7_-2GAZpL13qlqKvd4KR6BsGqs4Zk8_QvMjqcLPfTcqR1ImttSRYLzZTJwRDE_lE-Nc?key=7gg245YI4ihQtXpNRS-SmQ
+
+<img width="480" alt="Screenshot 2024-06-05 at 16 49 30" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/fae6d772-a569-4f13-abf2-bd527825bc7a">
 
 The input example on index.html
 

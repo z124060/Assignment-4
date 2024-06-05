@@ -1,8 +1,8 @@
-# Assignment-4
+*Assignment-4
 
-Introduction to PHP
+**Introduction to PHP**
 
-How to upload your homework?
+***How to upload your homework?***
 
 1. Click on the URL : http://172.21.82.208/wdp/login.php to access the login page. You’re Username and Password will be provided by Slack. Please login with your credentials.
 
@@ -30,7 +30,8 @@ In this exercise, you will apply your knowledge of PHP to create a simple calcul
 
 In this homework assignment, you have applied your knowledge of PHP to create a simple calculation program. By using variables, you were able to store values and perform calculations, displaying the results on a web page.
 
-You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part1/index.php
+[!NOTE]
+> You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part1/index.php
 
 **Part2**
 
@@ -48,7 +49,8 @@ In this exercise, you will use your knowledge of PHP to display numbers from 1 t
 
 In this homework assignment, you have used your PHP skills to display numbers from 1 to 365 on a web page. By utilizing variables and a loop, you were able to perform the necessary calculations and display the results.
 
-You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part2/index.php
+[!NOTE]
+> You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part2/index.php
 
 **Part 3**
 
@@ -65,7 +67,8 @@ Hint: The ksort() function is used to sort the associative array $fruits by its 
 5. Save index.php file
 6. Upload your PHP files in your respective folder :Class6_Part3
 
-You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part3/index.php
+[!NOTE]
+> You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part3/index.php
 
 **Part 4**
 
@@ -92,8 +95,8 @@ Write the code that gets and displays the data entered by the user
 7. Save **display_result.php** file
 8. Upload your PHP files in your respective folder :Class6_Part4
 
-You can check how the correct webpage should look like from
-
+[!NOTE]
+> You can check how the correct webpage should look like from 
 http://172.21.82.208/gift/class6/sol/part4/index.php
 
 **Part 5**
@@ -117,6 +120,6 @@ https://lh7-us.googleusercontent.com/docsz/AD_4nXdyZpGbH47dZU-95s2yNTpIBruOC4Gm5
 
 The resulting page (pizza.php) after taking the input above
 
-You can check how the correct webpage should look like from
-
+[!NOTE]
+> You can check how the correct webpage should look like from 
 http://172.21.82.208/gift/class6/sol/part5/index.html

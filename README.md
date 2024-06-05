@@ -13,7 +13,8 @@
 
 <img width="1347" alt="Screenshot 2024-06-04 at 16 52 42" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/a9db9487-766e-46ec-8cf7-d8664453071f">
 
-# Part 1**
+
+# Part 1
 
 **Creating a Simple Calculation Program using PHP**
 
@@ -30,7 +31,7 @@ In this exercise, you will apply your knowledge of PHP to create a simple calcul
 > You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part1/index.php
 
 
-**Part2**
+# Part2
 
 **Display Numbers from 1 to 365 using PHP**
 
@@ -47,7 +48,7 @@ In this exercise, you will use your knowledge of PHP to display numbers from 1 t
 > You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part2/index.php
 
 
-**Part 3**
+# Part 3
 
 **Experiment with PHP arrays**
 
@@ -64,7 +65,7 @@ In this homework assignment, you will practice working with PHP arrays. You will
 
 > You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part3/index.php
 
-**Part 4**
+# Part 4
 
 **Getting input and output using Forms**
 
@@ -89,11 +90,10 @@ Write the code that gets and displays the data entered by the user
 7. Save **display_result.php** file
 8. Upload your PHP files in your respective folder :Class6_Part4
 
-[!NOTE]
 > You can check how the correct webpage should look like from 
 http://172.21.82.208/gift/class6/sol/part4/index.php
 
-**Part 5**
+# Part 5
 
 **Getting the order using PHP Form**
 

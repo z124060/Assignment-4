@@ -13,8 +13,7 @@
 
 <img width="1347" alt="Screenshot 2024-06-04 at 16 52 42" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/a9db9487-766e-46ec-8cf7-d8664453071f">
 
-
-**Part 1**
+# Part 1**
 
 **Creating a Simple Calculation Program using PHP**
 

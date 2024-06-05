@@ -1,7 +1,8 @@
-#Assignment-4
+# Assignment-4
 
-#Introduction to PHP
-#How to upload your homework?
+## Introduction to PHP
+
+## How to upload your homework?
 
 1. Click on the URL : http://172.21.82.208/wdp/login.php to access the login page. You’re Username and Password will be provided by Slack. Please login with your credentials.
 

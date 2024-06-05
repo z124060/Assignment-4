@@ -28,10 +28,8 @@ In this exercise, you will apply your knowledge of PHP to create a simple calcul
 6. Save index.php file
 7. Upload your PHP files in your respective folder :Class6_Part1
 
-In this homework assignment, you have applied your knowledge of PHP to create a simple calculation program. By using variables, you were able to store values and perform calculations, displaying the results on a web page.
-
-[!NOTE]
 > You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part1/index.php
+
 
 **Part2**
 
@@ -47,10 +45,8 @@ In this exercise, you will use your knowledge of PHP to display numbers from 1 t
 6. Save index.php file
 7. Upload your PHP files in your respective folder :Class6_Part2
 
-In this homework assignment, you have used your PHP skills to display numbers from 1 to 365 on a web page. By utilizing variables and a loop, you were able to perform the necessary calculations and display the results.
-
-[!NOTE]
 > You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part2/index.php
+
 
 **Part 3**
 
@@ -58,7 +54,7 @@ In this homework assignment, you have used your PHP skills to display numbers fr
 
 In this homework assignment, you will practice working with PHP arrays. You will perform various operations on arrays, such as creating, using array functions.
 
-Hint: The ksort() function is used to sort the associative array $fruits by its keys in ascending order.
+> Hint: The ksort() function is used to sort the associative array $fruits by its keys in ascending order.
 
 1. With the given part3.php, please fill in necessary PHP code.
 2. Create the associative array by inputting romaji for each English word
@@ -67,18 +63,17 @@ Hint: The ksort() function is used to sort the associative array $fruits by its 
 5. Save index.php file
 6. Upload your PHP files in your respective folder :Class6_Part3
 
-[!NOTE]
 > You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part3/index.php
 
 **Part 4**
 
 **Getting input and output using Forms**
 
-In this exercise, you will write the PHP code that gets input from a form and displays output.
+In this exercise, you will write the PHP code that gets input from a form and displays the output.
 
 **Open and test the application**
 
-Open and test application by running the index.php file in your localhost, or the university server
+Open and test application by running the index.php file
 
 Write the code that gets and displays the data entered by the user
 
@@ -116,10 +111,9 @@ https://lh7-us.googleusercontent.com/docsz/AD_4nXclOZFzn_mIckKZhL4HTPP2JScLFomM2
 
 The input example on index.html
 
-https://lh7-us.googleusercontent.com/docsz/AD_4nXdyZpGbH47dZU-95s2yNTpIBruOC4Gm5Hd-ErvPR8WW3ilG8d7f-IkXihnNQtcMpwlpJAtDFjqLs7HhDofQ5gsVlNdJ__Ozfz0En7hBMibg6ZyxfmpeqPgZCyvE7d7Xf3DDY3pMLva1C5DqobTgegpDrD6VnvJyGYbvMiZdLaa1p1Do0NV1vrw?key=7gg245YI4ihQtXpNRS-SmQ
+<img width="470" alt="Screenshot 2024-06-05 at 17 01 23" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/a855299f-bf51-48a7-ab99-e18d4a4bb318">
 
 The resulting page (pizza.php) after taking the input above
 
-[!NOTE]
 > You can check how the correct webpage should look like from 
 http://172.21.82.208/gift/class6/sol/part5/index.html

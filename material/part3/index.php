@@ -40,17 +40,25 @@
 
         <?php
 
-        //input your PHP code here
-
+$eng2jp=array(
+        'apple' => 'ringo',
+        'grape' => 'budou',
+        'lemon' => 'remon',
+        'strawberry' => 'ichigo',
+        'peach' => 'momo'
+);
 
         ?>
 
         <h3>1. Print out English word as Japanese</h3>
+
         <pre>
 
 <?php
 
-//input your PHP code here
+foreach($eng2jp as $eng => $jp) {
+    echo "$eng : $jp\n";
+}
 
 
 ?>
@@ -62,7 +70,11 @@
         <pre>
 <?php
 
-//input your PHP code here
+ksort($eng2jp);
+
+foreach($eng2jp as $eng => $jp) {
+    echo "$eng : $jp\n";
+}
 
 ?>
 </pre>

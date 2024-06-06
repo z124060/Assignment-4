@@ -29,6 +29,10 @@
 
 //input your PHP code here
 
+for($num=1; $num<=365; $num++){
+    echo "$num\n";
+}
+
 
 ?>
 </pre>

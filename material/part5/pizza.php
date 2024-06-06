@@ -37,11 +37,11 @@
 
 <body>
   <?php if (isset($_POST['toppings']) && !is_array($_POST['toppings'])) {
-    //input your PHP code here
+    $toppings_problem = TRUE; // TODO: figure out if this should be here
   }
   else {
     $toppings_problem = FALSE;
-   //input your PHP code here
+    $toppings = $_POST['toppings'];
   } ?>
 <h1>THANK YOU</h1>
 
@@ -49,9 +49,9 @@
 
 <h2>Your Information</h2>
 <ul>
-<li><strong>Name:</strong> <?php //input your PHP code here ?></li>
-<li><strong>Address:</strong> <?php //input your PHP code here ?></li>
-<li><strong>Telephone number:</strong> <?php //input your PHP code here ?></li>
+<li><strong>Name:</strong> <?php filter_input(INPUT_POST, 'customername') ?></li>
+<li><strong>Address:</strong> <?php filter_input(INPUT_POST, 'address') ?></li>
+<li><strong>Telephone number:</strong> <?php filter_input(INPUT_POST, 'tel') ?></li>
 <li><strong>Email Address:</strong> <?php print $_POST['email'] ? $_POST['email'] : '<em>empty</em>'; ?></li>
 </ul>
 <p><strong>Delivery instructions:</strong> <?php print $_POST['instructions'] ? $_POST['instructions'] : '<em>empty</em>'; ?></p>

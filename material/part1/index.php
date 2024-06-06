@@ -30,10 +30,18 @@
 
 //input your PHP code here
 
+$food=array(
+    'bread' => 100,
+    'book' => 1050,
+    'fried_chicken' => 200,
+);
+
+$total=array_sum(array_values($food))
+
 ?>
-The total amount is <?php //input your PHP code here?> Yen
-The amount including tax (8%) is: <?php //input your PHP code here?> Yen
-The amount including tax (10%) is: <?php //input your PHP code here?> Yen
+The total amount is <?php printf("%d", $total)?> Yen
+The amount including tax (8%) is: <?php printf("%d", $total*(1+0.08))?> Yen
+The amount including tax (10%) is: <?php printf("%d", $total*(1+0.10))?> Yen
 </pre>
 </main>
 </body>    

@@ -1,22 +1,32 @@
 <?php
 // get the data from the form
 $email = filter_input(INPUT_POST, 'email', FILTER_VALIDATE_EMAIL);
+$password = filter_input(INPUT_POST, 'password');
+$phone = filter_input(INPUT_POST, 'phone');
 
 //input your PHP code here, here you should get the data for password, phone variables
 
 $heard_from = filter_input(INPUT_POST, 'heard_from');
 if ($heard_from === NULL) {
-   //input your PHP code here
+    $heard_from='Unknown';
 }
 
 //input your PHP code here, here you should display a value of “Yes” or “No” depending on whether the user has selected the check box.
 //hint: use if else
    
+$wants_updates = filter_input(INPUT_POST, 'wants_updates');
 
+if ($wants_updates === "0") {
+    $wants_updates = "No";
+} elseif ($wants_updates === "1") {
+    $wants_updates = "Yes";
+} else {
+    $wants_updates = "Maybe";
+}
 
 $contact_via = filter_input(INPUT_POST, 'contact_via');
 
-$comments = filter_input(INPUT_POST, 'comments');
+$comments = htmlspecialchars(filter_input(INPUT_POST, 'comments'));
 
 //input your PHP code here, here you should use function htmlspecialchars for this to work correctly
 //input your PHP code here, here you should use function nl2br for this to work correctly
